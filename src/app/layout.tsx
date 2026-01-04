@@ -3,8 +3,8 @@ import './globals.css';
 import { Toaster } from '@/components/ui/toaster';
 
 export const metadata: Metadata = {
-  title: 'MuskBlog',
-  description: 'A blog about Elon Musk and his ventures.',
+  title: 'Instara - Instagram Login',
+  description: 'Login to your Instagram account.',
 };
 
 export default function RootLayout({
