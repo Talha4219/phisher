@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "elon-musk-tesla",
+      "description": "Elon Musk standing in front of a Tesla car.",
+      "imageUrl": "https://images.unsplash.com/photo-1520088096110-20308c23a3cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtYW4lMjBjYXJ8ZW58MHx8fHwxNzY3MTc0NjI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man car"
+    },
+    {
+      "id": "spacex-rocket",
+      "description": "SpaceX rocket launching.",
+      "imageUrl": "https://images.unsplash.com/photo-1516850228053-a807778c4e0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyb2NrZXQlMjBzcGFjZXxlbnwwfHx8fDE3NjcxNzQ2Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "rocket space"
+    },
+    {
+      "id": "neuralink-chip",
+      "description": "A futuristic brain-computer interface chip.",
+      "imageUrl": "https://images.unsplash.com/photo-1739054730201-4b6463484e3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjaGlwJTIwdGVjaG5vbG9neXxlbnwwfHx8fDE3NjcxNzQ2Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chip technology"
+    },
+    {
+      "id": "gigafactory-production",
+      "description": "Inside a Tesla Gigafactory.",
+      "imageUrl": "https://images.unsplash.com/photo-1764115424737-25aca6f47835?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZmFjdG9yeSUyMHByb2R1Y3Rpb258ZW58MHx8fHwxNzY3MTc0NjI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "factory production"
+    }
+  ]
+}
